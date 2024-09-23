@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://zuplces.github.io/sitemap/sitemap.txt
